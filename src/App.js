@@ -25,3 +25,10 @@ function App() {
 }
 
 export default App;
+
+// yarn add redux react-redux redux-thunk redux-devtools-extension
+// yarn
+/* 
+npm install redux react-redux redux-thunk redux-devtools-extension
+npm install
+*/
